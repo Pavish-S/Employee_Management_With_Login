@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymysql
+pydantic
+email-validator
+pyjwt
+bcrypt
+python-multipart
+opencv-contrib-python
+numpy
